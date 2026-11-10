@@ -1,0 +1,25 @@
+
+# Data processing
+numpy==2.5.4
+pandas==3.0.6
+
+# Machine learning
+scikit-learn==1.9.1
+joblib==1.6.0
+
+# Data visualisation
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# API
+fastapi==0.143.2
+uvicorn==0.54.0
+pydantic==2.14.1
+
+# API testing
+httpx==0.28.1
+pytest==9.2.0
+
+# Notebook environment
+jupyter
+ipykernel

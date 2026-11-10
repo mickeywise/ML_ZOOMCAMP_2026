@@ -1,0 +1,15 @@
+
+# AirSense production dependencies
+
+# Data processing
+numpy==2.5.4
+pandas==3.0.6
+
+# Machine learning and model loading
+scikit-learn==1.9.1
+joblib==1.6.0
+
+# API
+fastapi==0.143.2
+uvicorn==0.54.0
+pydantic==2.14.1
