@@ -5,6 +5,7 @@ __pycache__/
 
 # Virtual environments
 .venv/
+**/.venv/
 venv/
 env/
 
@@ -12,7 +13,6 @@ env/
 .ipynb_checkpoints/
 
 # Machine learning models
-*.joblib
 *.pkl
 *.pickle
 
@@ -29,3 +29,15 @@ htmlcov/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Large datasets
+
+# Local Git repository backups
+.git_backup/
+Homework/Homework 7 Midterm Project/models/
+Homework/Homework 7 Midterm Project/models/
+Homework/Homework 8 Neural Networks and Deep Learning/data.zip
+.ipynb_checkpoints/
+Homework/Homework 7 Midterm Project/models/
+Homework/Homework 8 Neural Networks and Deep Learning/data.zip
+.ipynb_checkpoints/
